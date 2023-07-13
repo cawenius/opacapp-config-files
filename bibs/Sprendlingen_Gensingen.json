@@ -5,20 +5,15 @@
     "_plus_store_url": null,
     "_support_contract": false,
     "_version_required": 0,
-    "account_supported": true,
+    "account_supported": false,
     "api": "open",
     "city": "Sprendlingen",
     "country": "Deutschland",
     "data": {
         "baseurl": "https://bibsprgen.bibliotheca-open.de/",
-        "copiestable": {
-            "barcode": 0,
-            "branch": 4,
-            "department": 2,
-            "location": 1,
-            "reservations": -1,
-            "returndate": 5,
-            "status": 3
+        "urls": {
+            "advanced_search": "Mediensuche/Erweiterte-Suche",
+            "simple_search": "Mediensuche/Einfache-Suche"
         }
     },
     "geo": [

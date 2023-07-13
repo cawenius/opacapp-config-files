@@ -6,11 +6,11 @@
     "_support_contract": false,
     "_version_required": 0,
     "account_supported": true,
-    "api": "bibliotheca",
+    "api": "open",
     "city": "Sprendlingen",
     "country": "Deutschland",
     "data": {
-        "baseurl": "https://webopac.sprendlingen-gensingen.de/webopac",
+        "baseurl": "https://bibsprgen.bibliotheca-open.de/",
         "copiestable": {
             "barcode": 0,
             "branch": 4,
@@ -25,7 +25,7 @@
         49.86351,
         7.99134
     ],
-    "information": "http://www.igs-gerhard-ertl.de/kontakt/buecherei/",
+    "information": "https://www.bibliothek-sprendlingen-gensingen.de/",
     "library_id": 7359,
     "state": "Rheinland-Pfalz",
     "title": "Bibliothek Sprendlingen-Gensingen"
